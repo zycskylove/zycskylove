@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Deep learning.
 - 🌱 I’m currently learning Machine Learning and Deep learning.
 - 💞️ I’m looking to collaborate on Machine Learning or Deep learning.
-- 📫 How to reach me ? My email is 867245713@qq.com
+- 📫 如何联系我？我的邮箱是.......
 
 <!---
 zycskylove/zycskylove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
